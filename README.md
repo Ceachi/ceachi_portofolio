@@ -1,2 +1,2 @@
-# ceachi_portofolio
-My Data Scientist Portofolio
+# Ken_Portfolio
+A data science portfolio of Ken Jee.
